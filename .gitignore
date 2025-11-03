@@ -1,0 +1,20 @@
+# Pasta de configuração do VS Code
+.vscode/
+
+# Arquivos gerados pelo Flex/Bison
+lexico.c
+sintatico.c
+sintatico.h
+sintatico.output
+.mvs
+
+# Arquivos objeto compilados (pro C)
+*.o
+
+# Executável final (e outros comuns no Linux)
+simples
+*.out
+
+# Arquivos de backup (comuns no Linux)
+*~
+*.swp
